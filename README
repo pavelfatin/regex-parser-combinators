@@ -1,0 +1,5 @@
+A simple regular expression interpreter in Haskell.
+
+Supports groups, backreferences, anchors and lookarounds.
+
+Pavel Fatin, http://pavelfatin.com
